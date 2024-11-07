@@ -6,4 +6,4 @@ document.addEventListener('DOMContentLoaded', function() {
       window.location.href = 'page/dashboard.php'; // Navigate to dashboard.php
     });
   });
-  
+  //
